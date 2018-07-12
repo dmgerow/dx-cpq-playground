@@ -40,6 +40,6 @@ Create a scratch org and install Salesforce CPQ.
 
 ## Future Improvements
 
-- Create test data
+- Create test data to load when creating scratch org
 
 ## Known Issues
