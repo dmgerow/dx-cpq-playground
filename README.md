@@ -1,6 +1,6 @@
 # Salesforce CPQ Playground
 
-Create a scratch org and install Salesforce CPQ. 
+Create a scratch org with Salesforce CPQ installed
 
 ## Steps
 
