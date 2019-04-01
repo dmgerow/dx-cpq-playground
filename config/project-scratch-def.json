@@ -1,7 +1,11 @@
 {
     "orgName": "dylangerow Company",
     "edition": "Developer",
-    "orgPreferences" : {
-        "enabled": ["S1DesktopEnabled"]
-    }
+    "settings": {
+        "orgPreferenceSettings": {
+            "s1DesktopEnabled": true,
+            "s1EncryptedStoragePref2": false
+        }
+    },
+    "features": ["CPQ"]
 }
